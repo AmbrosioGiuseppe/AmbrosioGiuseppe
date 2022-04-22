@@ -1,6 +1,6 @@
 Hi 👋 My name is Giuseppe
 =========================
-I'm a Network Engineer
+I'm a Network Specialist
 ----------------
 <!--
 **AmbrosioGiuseppe/AmbrosioGiuseppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
